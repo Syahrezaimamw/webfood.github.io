@@ -20,7 +20,7 @@ export const Navbar = ({type}) => {
     },
     {
         name:'Menu',
-        link:'/webfood.github.io/'
+        link:'/webfood.github.io/Menu/'
     },
     {
         name:'Pages',

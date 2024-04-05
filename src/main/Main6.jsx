@@ -27,7 +27,7 @@ export const Main6 = () => {
         },
     ]
   return (
-    <div className='max-w-6xl m-auto text-hitam mt-[110px]'>
+    <div className='max-w-6xl m-auto text-hitam mt-[110px] mb-[110px]'>
         <h1 className='text-5xl font-medium text-center font-playfair'>
         What Our Customers Say
         </h1>

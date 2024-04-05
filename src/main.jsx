@@ -7,6 +7,7 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
+import { Menu } from './layout/Menu.jsx'
 
 const router = createBrowserRouter([
   {
@@ -16,6 +17,10 @@ const router = createBrowserRouter([
   {
     path: "/webfood.github.io/about/",
     element: <About/>,
+  },
+  {
+    path: "/webfood.github.io/menu/",
+    element: <Menu/>,
   },
 ]);
 

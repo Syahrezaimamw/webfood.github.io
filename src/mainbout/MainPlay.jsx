@@ -20,7 +20,7 @@ export const MainPlay = () => {
     ]
   return (
     <>
-    <div className='w-full mt-[110px] bg-[url("../src/images/bgb.png")] h-[550px] bg-no-repeat bg-cover'>
+    <div className='w-full mt-[110px] bg-[url("../src/images/bgb.png")] h-[580px] bg-no-repeat bg-cover'>
         
         <div className='flex flex-col items-center justify-center w-full h-full'>
             <div className='size-[65px] bg-white rounded-full flex justify-center items-center'>
@@ -38,7 +38,7 @@ export const MainPlay = () => {
                         </div>
                         <div>
                             <h1 className='text-lg font-semibold'>{a.title}</h1>
-                            <p className='text-[15px] w-[90%]'>In the new era of technology we look in the future with certainty life.</p>
+                            <p className='text-[15px] mt-3 w-[90%]'>In the new era of technology we look in the future with certainty life.</p>
                         </div>
                     </div>
                 ))

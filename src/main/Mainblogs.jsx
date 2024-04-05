@@ -29,7 +29,7 @@ export const Mainblogs = () => {
         },
     ]
   return (
-    <div className='w-full py-[100px]  bg-[#F9F9F7] mt-[110px] 
+    <div className='w-full py-[100px]  bg-[#F9F9F7]
     '>
 
     <div className='max-w-6xl m-auto text-hitam '>
